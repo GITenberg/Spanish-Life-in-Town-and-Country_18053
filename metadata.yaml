@@ -1,0 +1,36 @@
+_repo: Spanish-Life-in-Town-and-Country_18053
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Higgin, L.
+    gutenberg_agent_id: '7777'
+    url: http://www.gutenberg.org/2009/agents/7777
+  - agent_name: Street, Eugène E. (Eugène Edward)
+    alias: Street, Eugene E. (Eugene Edward)
+    deathdate: 1913
+    gutenberg_agent_id: '7778'
+    url: http://www.gutenberg.org/2009/agents/7778
+  editor:
+    agent_name: Dawson, William Harbutt
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '7779'
+    url: http://www.gutenberg.org/2009/agents/7779
+description: ''
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- Social life and customs'
+- !lcc 'DP'
+- !lcsh 'Spain -- Social life and customs'
+title: Spanish Life in Town and Country
+url: http://www.gutenberg.org/ebooks/18053
